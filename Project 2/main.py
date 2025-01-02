@@ -3,7 +3,7 @@ import random
 
 class Project:
     def __init__(self):
-        self.randNumber = 45
+        self.randNumber = random.randint(1,100)
         self.userGuess = None
         self.guesses = 0
         self.hiscore = self.get_hiscore()
