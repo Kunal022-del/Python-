@@ -48,14 +48,14 @@ To run this application, ensure you have the following:
 1. Navigate to the folder containing the script.
 2. Run the application using the following command:
    ```bash
-   python <script-name>.py
+   python <script_name>.py
    ```
 
 ---
 
 ## File Structure
 
-```
+```bash
 |-- BIRTHDAY/
 |   |-- image1.jpg
 |   |-- image2.jpg
@@ -71,11 +71,12 @@ To run this application, ensure you have the following:
   - A 2x2 grid of images.
   - A text box containing a pre-written birthday message.
 - The message box is read-only for preserving the message integrity.
-
-
-## Credits
+---
 ## License
+
+```
 Developed with love using Python and the Tkinter GUI framework.This project is open-source and available under the MIT License.
+```
 
 ---
 ## Contributing
@@ -83,4 +84,5 @@ Contributions are welcome! If you'd like to contribute, please fork the reposito
 request. Make sure to include a clear description of the changes you've made and why.
 bash
 pip install pillow
+---
 
