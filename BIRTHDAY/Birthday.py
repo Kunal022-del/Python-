@@ -63,7 +63,7 @@ class BirthdayCardApp:
             "Love you endlessly!\n"
             "I also remember those two days where I had taken money unknowingly so that I could feed my friends during exams, "
             "and the day when I used foul words on a social media app just for fun. I never intended to make you unhappy. "
-            "I'm truly sorry, Papa.\n\n"
+            "Sorry Papa !.\n\n"
             "With love, always.",
         )
         self.text_box.config(state=tk.DISABLED)  # Make the text box read-only
