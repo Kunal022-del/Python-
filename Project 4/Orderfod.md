@@ -77,5 +77,4 @@ Spring Rolls has been added to your order!
 
 --- Receipt ---
 Spring Rolls: $5.00
-
 Total Payment: $5.00
