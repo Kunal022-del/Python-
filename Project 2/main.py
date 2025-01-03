@@ -1,5 +1,5 @@
 import random
-class Project:
+class RandomNumberGame:
     def __init__(self):
         self.randNumber = random.randint(1,100)
         self.userGuess = None
