@@ -1,14 +1,14 @@
 import random
 class Project:
     def __init__(self):
-        self.randNumber=random.randint(1, 100)
         self.randNumber = random.randint(1,100)
         self.userGuess = None
         self.guesses = 0
         self.hiscore = self.get_hiscore()
+        self.filename = "score.txt"
     def get_hiscore(self):
         try:
-            with open("hiscore.txt", "r") as f:
+            with open(self.filename, "r") as f:
                 return int(f.read())
         except FileNotFoundError:
             return "File not found"
@@ -16,7 +16,7 @@ class Project:
     def update_hiscore(self):
         if self.guesses < self.hiscore:
             print("You have just broken the high score!")
-            with open("hiscore.txt", "w") as f:
+            with open(self.filename, "w") as f:
                 f.write(str(self.guesses))
         else:
             print(f"The high score is still {self.hiscore}.")
