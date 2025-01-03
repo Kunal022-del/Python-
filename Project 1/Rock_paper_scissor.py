@@ -42,7 +42,11 @@ class Game:
             print("You Win!")
         else:
             print("You Lose!")
-
+        play_again = input("Do you want to play again? (y/n) ").lower()
+        if play_again == "y":
+            self.play_game()
+        else:
+            print("Thanks for playing!")
 
 game = Game()
 game.play_game()
