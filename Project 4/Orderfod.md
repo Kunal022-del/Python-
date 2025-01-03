@@ -38,7 +38,7 @@ The system is interactive, intuitive, and user-friendly, making it an excellent 
 ## Code Description
 
 ### Key Components:
-1. **Menu Initialization**:
+1. ***Menu Initialization***:
    - The menu is organized into categories with items and their prices.
 
 2. **Order Management**:
@@ -76,5 +76,5 @@ Enter the number of the item you want to order from Appetizer: 1
 Spring Rolls has been added to your order!
 
 --- Receipt ---
-Spring Rolls: $5.00
-Total Payment: $5.00
+Spring Rolls: $5.00 <br>
+Total Payment: $5.00</br>
