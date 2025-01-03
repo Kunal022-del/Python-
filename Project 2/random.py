@@ -48,7 +48,7 @@ class RandomNumberGame:
         return self.randNumber
 
 
-p = Project()
+p = RandomNumberGame()
 p.play_game()
 print(p.guess())
 print(p.highscore())
