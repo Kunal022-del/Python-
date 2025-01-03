@@ -51,25 +51,13 @@ This project is a simple and visually appealing HTML webpage for ordering food. 
 
 ### Change Styles:
 - Modify the CSS in the `<style>` tag to update colors, fonts, or layout.
-
 ---
 
 ## Example Output
-
-![Webpage Screenshot](https://via.placeholder.com/600x300)
-
 - **Food Items**:
   - Pizza: Delicious cheese pizza with fresh ingredients.
   - Burger: Juicy beef burger with crispy lettuce and tomato.
   - Pasta: Italian pasta with rich and creamy sauce.
 
 ---
-
-## License
-
-This project is open-source and available for modification and distribution under the MIT License.
-
----
-
-Enjoy creating your restaurant menu webpage! 🍲
 
