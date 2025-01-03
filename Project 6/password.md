@@ -30,4 +30,9 @@ This is a simple password generator application built using Python and Tkinter. 
 - `password.md`: The main application file containing the password generator code.
 - `password_1.txt`: The file where generated passwords are saved.
 
+## Output:
+``bash
+```
+
+
 
