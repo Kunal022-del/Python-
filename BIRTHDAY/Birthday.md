@@ -72,17 +72,8 @@ To run this application, ensure you have the following:
   - A text box containing a pre-written birthday message.
 - The message box is read-only for preserving the message integrity.
 ---
-## License
-
-```
-Developed with love using Python and the Tkinter GUI framework.This project is open-source and available under the MIT License.
-```
 
 ---
-## Contributing
-Feel free to contribute by suggesting improvements or adding new features.
-   ```bash
-   pip install pillow
-   ```
----
+## Note:
+This is just an example while running the app if you want to inquire aabouth this more please see this <strong> </strong>
 
