@@ -80,9 +80,12 @@ Developed with love using Python and the Tkinter GUI framework.This project is o
 
 ---
 ## Contributing
+```
 Contributions are welcome! If you'd like to contribute, please fork the repository and submit a pull
 request. Make sure to include a clear description of the changes you've made and why.
 bash
 pip install pillow
+```
+
 ---
 
