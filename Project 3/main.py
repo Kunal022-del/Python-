@@ -3,9 +3,9 @@ class Library:
         self.Books = listOfBooks
 
     def displayAvailableBooks(self):
-        print("\n" "Books present in this library are: ")
-        for Book in self.Books:
-            print("++" + Book)
+        print("\n" "Books present in this library are:\n")
+        for i in range(len(self.Books)):
+            print(f"{i + 1}. {self.Books[i]}")
 
     def borrowBook(self, BookName):
         if BookName in self.Books:
