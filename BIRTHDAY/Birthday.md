@@ -75,5 +75,8 @@ To run this application, ensure you have the following:
 
 ---
 ## Note:
-This is just an example while running the app if you want to inquire aabouth this more please see this <strong> </strong>
+This is just an example while running the app if you want to inquire about this more please see this:
+ ```bash
+ BIRTHDAY\Birthday.py
+```
 
