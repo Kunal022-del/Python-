@@ -73,6 +73,9 @@ Error: Password for this site and user already exists.
 
 ---
 ## Contact
-For any questions or feedback, please reach out at [Kunalsep22@gmail.com].
-
+For any questions or feedback, please reach out at 
+```batch
+[Kunalsep22@gmail.com].
+```
+---
 
