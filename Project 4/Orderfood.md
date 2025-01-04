@@ -78,3 +78,7 @@ Spring Rolls has been added to your order!
 --- Receipt ---<br>
 Spring Rolls: $5.00 </br>
 Total Payment: $5.00
+
+---
+## Contact
+For any questions or feedback, please reach out at [Kunalsep22@gmail.com].
