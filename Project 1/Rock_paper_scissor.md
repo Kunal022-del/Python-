@@ -40,3 +40,7 @@ Your Turn: Rock(r), Paper(p) or Scissors(s)? r
 Computer chose: Paper
 You chose: Rock
 You Lose!
+```
+---
+## Contact
+For any questions or feedback, please reach out at [Kunalsep22@gmail.com].

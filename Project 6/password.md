@@ -72,5 +72,7 @@ Error: Password for this site and user already exists.
 - **password_1.txt**: File where passwords are stored or by setting new filename by changing <strong>`<script filename>`</strong>
 
 ---
+## Contact
+For any questions or feedback, please reach out at [Kunalsep22@gmail.com].
 
 

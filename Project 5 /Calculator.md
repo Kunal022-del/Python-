@@ -46,4 +46,6 @@ The "C" button resets the display:
 
 - When clicked, the current expression is cleared, and the display is reset to an empty state, allowing the user to input a new expression.
 
-
+---
+## Contact
+For any questions or feedback, please reach out at [Kunalsep22@gmail.com].
