@@ -2,7 +2,8 @@ import tkinter as tk
 from tkinter import ttk
 from tkinter import messagebox
 
-# Currency conversion rates relative to 1 USD
+# Currency conversion rates relative to 1 USD it could be modify
+# According to converion from any currency and changing the money type 
 cont_dic = {
     "USD": 1.0, "EUR": 0.93, "JPY": 110.35, "GBP": 0.77, "AUD": 1.35,
     "CAD": 1.32, "CHF": 0.91, "CNY": 6.95, "SEK": 9.02, "NZD": 1.45,
