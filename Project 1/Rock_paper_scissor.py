@@ -47,6 +47,7 @@ class Game:
             self.play_game()
         else:
             print("Thanks for playing!")
+if __name__=="main":# It will start the loop it is a good practice to do .
+    game = Game()
+    game.play_game()
 
-game = Game()
-game.play_game()
