@@ -1,3 +1,4 @@
+
 import random
 import tkinter as tk
 from tkinter import messagebox, simpledialog
@@ -57,8 +58,7 @@ class Password:
     def create_password(self, length):
         password = ""
         for _ in range(length):
-            random_num = random.randint(33, 125)
-            password += chr(random_num)+ord(chr(for i in range(30,41)))
+            password += chr(random.randint(33, 126))
         return password
 
     def save_password(self):
