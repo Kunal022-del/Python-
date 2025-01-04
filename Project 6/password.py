@@ -58,7 +58,7 @@ class Password:
         password = ""
         for _ in range(length):
             random_num = random.randint(33, 125)
-            password += chr(random_num)
+            password += chr(random_num)+ord(chr(for i in range(30,41)))
         return password
 
     def save_password(self):
@@ -71,13 +71,9 @@ class Password:
             lines = file.readlines()
             for line in lines:
                 if f"User: {user}" in line and f"Site: {site}" in line:
-                    messagebox.showerror(
-                        "Error", "Password for this site and user already exists."
-                    )
-                    return
-
+                    messagebox.showerror("Error", "Password for this site and user already exists.")
         with open("password_1.txt", "a+") as file:
-            file.write(f"User: {user}\nSite: {site}\nPassword: {self.password}\n\n")
+            file.write(f"User Name : {user}\nSite: {site}\nPassword: {self.password}\n\n")
         messagebox.showinfo("Saved", "Password saved successfully.")
 
 
