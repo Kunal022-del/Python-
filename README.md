@@ -10,6 +10,7 @@ Welcome to my collection of Python projects! These projects cover a variety of i
 4. [Simple Calculator using Tkinter](https://github.com/Kunal022-del/Python-/tree/main/Project%205%20)  
 5. [Password Generator Application](https://github.com/Kunal022-del/Python-/tree/main/Project%206)  
 6. [Currency Converter](https://github.com/Kunal022-del/Python-/tree/main/Project%202)
+7. [Number Guessing Game](https://github.com/Kunal022-del/Python-/tree/1df923cec1a34d2084b2c249d6fd562f2cfd1518/Project%207)
 
 ---
 ### Rock, Paper, Scissors Game
